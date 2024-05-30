@@ -1,0 +1,10 @@
+D:\TestNiMax\TestNiMax\bin\Debug\TestNiMax.exe.config
+D:\TestNiMax\TestNiMax\bin\Debug\TestNiMax.exe
+D:\TestNiMax\TestNiMax\bin\Debug\TestNiMax.pdb
+D:\TestNiMax\TestNiMax\obj\Debug\TestNiMax.csprojAssemblyReference.cache
+D:\TestNiMax\TestNiMax\obj\Debug\TestNiMax.Form1.resources
+D:\TestNiMax\TestNiMax\obj\Debug\TestNiMax.Properties.Resources.resources
+D:\TestNiMax\TestNiMax\obj\Debug\TestNiMax.csproj.GenerateResource.cache
+D:\TestNiMax\TestNiMax\obj\Debug\TestNiMax.csproj.CoreCompileInputs.cache
+D:\TestNiMax\TestNiMax\obj\Debug\TestNiMax.exe
+D:\TestNiMax\TestNiMax\obj\Debug\TestNiMax.pdb

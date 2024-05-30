@@ -1,0 +1,8 @@
+D:\ServerSvn\Projects C#\mini_projeck_template\TestNiMax\VisaNi\VisaNi\bin\Debug\VisaNi.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\TestNiMax\VisaNi\VisaNi\bin\Debug\VisaNi.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\TestNiMax\VisaNi\VisaNi\bin\Debug\Ivi.Visa.Interop.dll
+D:\ServerSvn\Projects C#\mini_projeck_template\TestNiMax\VisaNi\VisaNi\obj\Debug\VisaNi.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\TestNiMax\VisaNi\VisaNi\obj\Debug\VisaNi.csproj.CoreCompileInputs.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\TestNiMax\VisaNi\VisaNi\obj\Debug\VisaNi.csproj.CopyComplete
+D:\ServerSvn\Projects C#\mini_projeck_template\TestNiMax\VisaNi\VisaNi\obj\Debug\VisaNi.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\TestNiMax\VisaNi\VisaNi\obj\Debug\VisaNi.pdb
